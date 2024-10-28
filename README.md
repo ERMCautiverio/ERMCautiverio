@@ -11,7 +11,7 @@ CERTIFICATION:
 SQL and Relational Databases 101
 https://courses.cognitiveclass.ai/certificates/f6a3922d008b412e8b4bd6905e9e7575
 --------------------------------------------------------------
-SKILLSET
+SKILLSET:
 
 Database Management: SQL
 --------------------------------------------------------------
