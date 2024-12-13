@@ -17,6 +17,6 @@ Certification/s:
 
 Skillset:
 ------------------------------------------------------------------------------------------------------
-Database Management: SQL
+Database Management: SQL; 
 Java Programming
 
