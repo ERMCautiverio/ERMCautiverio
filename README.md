@@ -16,6 +16,7 @@ Certification/s:
 | [**Oracle Cloud Infrastructure AI Foundations Associate**](https://catalog-education.oracle.com/ords/certview/sharebadge?id=D62C90FFAEE82D429F1E5E9C5D0EA511B7BAAE12AAB01A5B99945F1F77579CCB) | December 13, 2024 |
 | **TESDA Preparing Financial Reports** | March 06, 2025 |
 | **Cisco Networking Academy Program: Networking Basics** | April 09, 2025 |
+
 Skillset:
 ------------------------------------------------------------------------------------------------------
 Database Management: SQL; 
